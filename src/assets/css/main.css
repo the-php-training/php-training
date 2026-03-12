@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Oswald', sans-serif;
+  --letter-spacing-tighter: -0.02em;
+}
